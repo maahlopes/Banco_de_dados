@@ -1,2 +1,2 @@
 # Banco_de_dados
-Atividade feita em sala de aula.
+Atividades feitas em sala de aula.
